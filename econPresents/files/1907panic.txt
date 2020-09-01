@@ -1,0 +1,132 @@
+
+The Panic of 1907
+1907
+
+This global financial crisis inspired the monetary reform movement and led to the creation of the Federal Reserve System
+A crowd forms in front of Federal Hall, Wall Street, during the Panic of 1907.
+Crowd on Wall Street during the Panic of 1907. (Photo: By Unidentified (New York Public Library) [Public domain or Public domain], via Wikimedia Commons)
+by Jon R. MoenOffsite link and Ellis W. TallmanOffsite link
+
+The Panic of 1907 was the first worldwide financial crisis of the twentieth century. It transformed a recession into a contraction 
+surpassed in severity only by the Great Depression.1 The panic’s impact is still felt today because it spurred the monetary reform 
+movement that led to the establishment of the Federal Reserve System. Moen and Tallman (1999) argued that the experience of the Panic of 
+1907 changed how New York Clearing House bankers perceived the value of a central bank because the panic took hold mainly among trust 
+companies, institutions outside their membership.
+
+The central role of New York City trust companies distinguishes the Panic of 1907 from earlier panics. Trust companies were 
+state-chartered intermediaries that competed with banks for deposits. Trusts were not, however, a central part of the payments system 
+and had a low volume of check clearing compared with banks. As a result, they held a low percentage of cash reserves relative to deposits, 
+around 5 percent, compared with 25 percent for national banks. Because trust-company deposit accounts were demandable in cash, trusts 
+were just as susceptible to runs on deposits as were banks.
+
+Despite their minor role in the payments system, trusts were large and important to the financial system. Trust companies loaned large 
+sums directly in New York equity markets, including New York Stock Exchange brokers. Trusts did not require collateral for these loans, 
+which had to be repaid by the end of the business day. Brokers used these loans to purchase securities for themselves or their clients 
+and then used these securities as collateral for a call loan — an overnight loan that facilitated stock purchases — from a nationally 
+chartered bank.2 The proceeds of the call loan were used to pay back the initial loan from the trust company. Trusts were a necessary 
+part of this process, because the law prohibited nationally chartered commercial banks from making uncollateralized loans or guaranteeing 
+the payment of checks written by brokers on accounts without sufficient funds.3 The extra liquidity provided by trusts supported new 
+daily transactions on the floor of the exchange. Runs on trust company deposits, however, short-circuited their role as the initial 
+liquidity provider to the stock market.
+
+The Panic of 1907 had many elements in common with the financial crisis of 2007-09.4 Both crises started among New York City financial 
+institutions and markets, and both affected the economy of the United States and the rest of the world. Examining the sequence of events 
+in 1907 makes the parallels clear.
+
+On October 16, 1907, two minor speculators, F. Augustus Heinze and Charles W. Morse, suffered huge losses in a failed attempt to corner 
+the stock of United Copper, a copper mining company traded on the curb.5,6 After the collapse of this corner, the banks associated with
+these men succumbed to runs by depositors, who moved their deposits from dubious Heinze banks toward more reliable banks.
+
+Four days later, the New York Clearing House made a public announcement that the Heinze-related member banks like Mercantile National 
+Bank had been examined and deemed to be solvent, calming their depositors. The Clearing House also forced out the management of these 
+banks, including Heinze and Morse. The New York Clearing House then offered these banks loans that were eventually exchanged for clearing 
+house loan certificates, one of the benefits of membership in the Clearing House Association.7
+
+While the Clearing House had been able to quash the runs on the national banks associated with Heinze and Morse, they were spreading 
+to the trust companies. On Friday, October 18, news broke that the president of Knickerbocker Trust, Charles T. Barney, was an associate 
+of Morse.8 The news sparked a run on Knickerbocker. The National Bank of Commerce extended credit to Knickerbocker Trust to cover 
+those withdrawals.
+
+The bank then requested a loan from the New York Clearing House on the behalf of Knickerbocker Trust on Monday, October 21. The Clearing 
+House denied the request because its resources were reserved for the support of its member institutions. Knickerbocker and most other 
+trust companies in New York were not members. After this denial, a request for aid was made to J.P. Morgan. He asked Benjamin Strong, 
+then a vice president at Banker’s Trust and later the first head of the Federal Reserve Bank of New York, to examine Knickerbocker’s 
+books and determine its financial condition. In the short period of time available, Strong could make no definitive determination of 
+Knickerbocker’s solvency.9 Morgan therefore refused to aid the trust.
+
+Also on October 21, Knickerbocker’s Board of Directors dismissed Barney on the basis of his personal connections to Morse.10 The 
+National Bank of Commerce then announced that it would no longer act as Knickerbocker’s clearing agent. Following these announcements, 
+the run on Knickerbocker intensified. The next day, after depositors had withdrawn nearly $8 million, it suspended operations.
+
+The suspension of Knickerbocker Trust sparked the full-scale financial crisis in New York City. The runs on deposits spread among the 
+trusts and were most intense at the Trust Company of America. Morgan changed his mind and quickly released aid, as did the New York 
+Clearing House banks. However, depositors continued to withdraw funds from Trust Company of America for two more weeks.
+
+An upward spike in the call money interest rate — the rate of interest on overnight loans on stock collateral offered at the New York 
+Stock Exchange — was among the first signals of distress and tightening credit (see Figure 1). On the day Knickerbocker closed, 
+October 22, the annualized rate jumped from 9.5 percent to 70 percent, then to 100 percent two days later. At times, there were no 
+credit offers at that rate. The New York Stock Exchange remained open largely because of the legendary actions of Morgan, who 
+solicited cash from large financial and industrial institutions and then had it delivered directly to the loan post at the exchange 
+to support brokers who were willing to extend credit.
+
+
+
+
+After an unusual delay of five days, the New York Clearing House Committee met on Saturday, October 26, and formed a panel to 
+facilitate the issuance of clearing-house loan certificates.11 These were the predecessor to discount window loans from the Federal 
+Reserve System and provided a temporary increase in liquidity. On the same day, the New York Clearing House banks — those institutions 
+central to the payment system — chose to restrict the convertibility of deposits into cash.12 This action severed the par exchange 
+rate between deposits and cash, thereby leading to a cash premium and a substantial influx of gold imports from abroad. Those gold 
+imports appear to have been instrumental in spurring the recovery of the New York City financial market.13
+
+The parallels between the crises in 1907 and 2008 are striking. During 2007-09, the financial crisis was centered on investment banks, 
+institutions without direct access to the Federal Reserve System. In 1907, widespread depositor withdrawals occurred at New York City 
+trust companies — intermediaries outside the New York Clearing House, the effective lender of last resort. In effect, both financial 
+crises started outside the large banks serving as payments centers. Yet the crises created havoc within markets and among banks that 
+were central to the payments system. Both crises challenged the existing mechanisms used to alleviate crises.
+
+The trust companies in 1907 were like the shadow banks in the financial crisis of 2007-09. Short-term lending during the recent 
+crisis came largely from some shadow banks (hedge funds and money market mutual funds) to fund other shadow banks (investment banks). 
+As key liquidity providers for repurchase agreements, these shadow banks were the “depositors” providing funds for overnight lending 
+to allow investment banks to finance the asset-backed security market, just as uncollateralized loans (overdrafts) by trust companies 
+allowed brokers to purchase stock.14 Both the trusts and the shadow banks faced runs by their depositors and had to withdraw lending 
+in short-term credit markets.
+
+
+Enlarge
+
+The 2008 rescue of Bear Stearns — which was faced with a run by its shadow bank lenders before it was bought by JPMorgan Chase with 
+a loan from the Federal Reserve — was analogous to the support received by Mercantile National Bank from the New York Clearing House 
+in October 1907. The failure of Lehman Brothers in September 2008 and the suspension of Knickerbocker Trust in October 1907 also share 
+a dubious distinction – each episode marked the beginning of the most severe financial crisis in each era. Knickerbocker Trust and 
+Lehman Brothers, each isolated from their respective lender of last resort, nevertheless had a notable difference. Knickerbocker Trust 
+was in suspension, whereas Lehman Brothers failed. By closing temporarily, Knickerbocker prevented depositors from gaining any 
+further access to their deposits; it reopened in March 1908 following the infusion of $2.4 million in new capital. In contrast, 
+the remnants of Lehman Brothers have been purchased by a variety of firms around the world. Lehman's customers required nearly six 
+years to receive their payments, and the net losses to Lehman creditors have not yet been accounted for completely.
+
+The “panic-related” withdrawals that took place at the trust companies signaled the onset of a systemic panic, a widespread attempt 
+to remove deposits from intermediaries. In a panic, the public tries to hold a higher proportion of liquid assets as cash instead of 
+as deposits, thereby forcing a “credit crunch” among intermediaries, distinguishing it as a “systemic” banking crisis as opposed to 
+a bank run like those specifically on the Heinze/Morse banks.
+
+Ever since former Fed Chair Ben Bernanke, during his time as a Stanford professor, investigated the link between credit crises and 
+real economic outcomes in a seminal 1983 paper, research on this important topic has been controversial. One lesson from examining 
+and comparing the Panics of 1907 and 2008 is that problems arising in short-term, overnight lending markets can be the initial 
+catalyst for economic disruption during a panic. New work on the Panic of 1907 uncovers further key linkages between financial 
+distress and failure among financial intermediaries (trust companies) and the relatively poor performance of the nonfinancial 
+firms that depended upon them for loans and other financial services.15 It is also important to note that the Panic of 1907 had 
+severe real effects. Industrial output fell 17 percent in 1908, and real GNP fell by 12 percent.16 Only the Great Depression was 
+more severe. But unlike the Great Depression or the recent Great Recession, the real sector recovered rapidly, in little over a 
+year after 1907.17
+
+The Panic of 1907 took place over one hundred years ago, before the establishment of the Federal Reserve System, the Federal Deposit 
+Insurance Corporation, or the Securities and Exchange Commission -- institutions designed to bring stability to banking and 
+financial markets. Before these institutions, the National Banking Acts provided the regulatory structure guiding the day-to-day 
+behavior of banks, particularly the largest and most interconnected ones. During a panic, however, the acts provided little 
+guidance to bankers coping with large-scale withdrawals of deposits. The private New York Clearing House provided a structure 
+for addressing crisis events, and it imposed rules and standards on member bank behaviors to discipline members and maintain sound 
+practices. Modern regulatory institutions have supplanted this role. The era before 1914 is a fertile ground for researchers 
+interested in the underlying causes of systemic effects like panics because the behavior of key market participants was less 
+affected by potential actions of government regulators.18 Research focusing on this earlier period, therefore, can provide insight 
+into where financial crises are likely to occur and policies to alleviate them -- or better yet, avert them.
