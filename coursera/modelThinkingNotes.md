@@ -88,5 +88,15 @@ Returns to capital are greater than overall economic growth, so the rich get ric
 
 9. If output equals $40 \sqrt K$ the savings rate equals 10% and the depreciate rate is 20%, what is sthe long run equilibrium level of output?
 
+## Week 5
+
+### Problem Solving and Innovation
+
+### Perspectives
+
+### Heuristics
+
+### Teams
+
 
 
