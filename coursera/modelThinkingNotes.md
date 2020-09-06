@@ -92,6 +92,12 @@ Returns to capital are greater than overall economic growth, so the rich get ric
 
 ### Problem Solving and Innovation
 
+Local Optima: an action in any direction will lead to a less good immediate outcome
+
+Rugged landscape: many local peaks
+
+Mt. Fuji landscape: only one global peak
+
 ### Perspectives
 
 ### Heuristics
