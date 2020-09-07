@@ -92,17 +92,23 @@ Returns to capital are greater than overall economic growth, so the rich get ric
 
 ### Problem Solving and Innovation
 
+### Perspectives
+
 Local Optima: an action in any direction will lead to a less good immediate outcome
 
 Rugged landscape: many local peaks
 
 Mt. Fuji landscape: only one global peak
 
-### Perspectives
-
 ### Heuristics
 
+Do the Opposite: this is an example of a hueristic that might be attempted in order to innovate, eg: have the customer set the price rather than the typical way
+
+Big Rocks First: put the big rocks in first when doing something
+
 ### Teams
+
+Better at solving problems because people use different heuristics, and are diverse and hence able to overcome obstacles. Using a toaster as an example, iterative improvements of one product type can be considered as a type of team as well. 
 
 
 
