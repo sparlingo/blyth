@@ -112,3 +112,9 @@ Better at solving problems because people use different heuristics, and are dive
 
 
 
+### Recombination
+
+How many ways can we combine things together. Many new things are really just mash-ups of old solutions to other problems, look at the post-it note as an example. If the glue is too sticky it won't work, if it's not sticky enough it won't work. You have to try different glues to get the right conditions. 
+
+
+
