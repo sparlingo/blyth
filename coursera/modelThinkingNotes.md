@@ -116,5 +116,52 @@ Better at solving problems because people use different heuristics, and are dive
 
 How many ways can we combine things together. Many new things are really just mash-ups of old solutions to other problems, look at the post-it note as an example. If the glue is too sticky it won't work, if it's not sticky enough it won't work. You have to try different glues to get the right conditions. 
 
+### Markov Processes
 
+Many things can be thought of as Markov Processes, they must have:
+
+1) finite number of states
+
+2) ability to get from any state to any other
+
+3) fixed transition probablity
+
+Following is an example of a markov process, modeling a classroom of students who can be either alert or bored
+
+#### Scenario 1: 100 Alert students
+
+|        | A(t) | B(t) |
+| ------ | ---- | ---- |
+| A(t+1) | 0.8  | 0.25 |
+| B(t+1) | 0.2  | 0.75 |
+
+The matrix above gives the probability that there will be a state change during any period. In the case that all students begin alert, multiply the above matrix by the second column below:
+
+| Alert | 1    |
+| ----- | ---- |
+| Bored | 0    |
+
+Step through the example above for many periods to get the value for any particular time period
+
+### Markov Model of Democratization
+
+Let's say that 20% of dictatorships become democracies in each period, and 5% of democracies become dictatorships in each period. 
+
+| 0.95 | 0.2  |
+| ---- | ---- |
+| 0.05 | 0.8  |
+
+Expanding the model to free, partly free, and not free: 
+
+| 0.9  | 0.1  | .05  |
+| ---- | ---- | ---- |
+| .05  | 0.8  | .15  |
+| 0    | 0.1  | 0.8  |
+
+multipled by:
+
+| p     |
+| ----- |
+| q     |
+| 1-p-q |
 
