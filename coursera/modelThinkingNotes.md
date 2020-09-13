@@ -165,3 +165,10 @@ multipled by:
 | q     |
 | 1-p-q |
 
+### Markov Convergence Theorem
+
+4 necessary conditions for MCT to apply:
+
+1) Finite states, 2) Fixed transition probablities 3) there is a path from one state to any other 4) not a simple cycle
+
+This is a tricky theorem to apply to the real world, since in this model history doesn't matter and initial conditions don't matter. 
