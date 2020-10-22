@@ -6,6 +6,8 @@ Discussions among friends are wonderful, espcieally with a few beers. I often ta
 
 ### Profiles of the Urban Chinese
 
+Here I will outline what a typical profile might be for the various age cohorts in China today, what the world would look like for them as they "come of age". When you graduate school and the state of the economy at that time have great effects on your long-term outcomes and China has experienced a greatly accelerated development path for the past 40 years and the image that many people have of an unbroken line of development can easily be augmented by a little bit of deeper thought and inquiry into the matter.
+
 #### Post 50s group
 
 #### Post 60s group
@@ -14,8 +16,12 @@ This and the post 70s generation are the sweet spot of the curve.
 
 #### Post 70s group
 
+When the Cultural Revolution began this group were not yet born, sparing them the direct traumas from this time of troubles. They were born and quite young when the Reform and Opening period began in 1978, and they were the ones who were prepared to renew the promise of China's new age after it's careening off the cliff by Mao. 
+
 #### Post 80s group
 
 #### Post 90s group
 
 #### Post 2000s group
+
+This group are hopeless. Confident, prideful, nationalistic, fucked for life. Yes that's hyperbole, but when your wages are going to be lower than your parents and you have to buy the world's most expensive housing: that's what you are.
