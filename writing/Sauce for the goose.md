@@ -16,11 +16,13 @@ This and the post 70s generation are the sweet spot of the curve.
 
 #### Post 70s group
 
-When the Cultural Revolution began this group were not yet born, sparing them the direct traumas from this time of troubles. They were born and quite young when the Reform and Opening period began in 1978, and they were the ones who were prepared to renew the promise of China's new age after it's careening off the cliff by Mao. 
+When the Cultural Revolution began this group were not yet born, sparing them the direct traumas from this time of troubles. They were born and quite young when the Reform and Opening period began in 1978, and they were groomed to renew the promise of China's new age after it's careening off the cliff when Mao grabbed the steering wheel again in 1976.. 
 
 #### Post 80s group
 
 #### Post 90s group
+
+Any analysis of the financial position of Chinese people would be incomplete without doing an analysis of the structure of Chinese families since the idea that people are simply independent economic entities is laughable anyway, even more true in a society like China.
 
 #### Post 2000s group
 
